@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Matteo, an AI uni student and freelance web developer!
 
 <!--
 **MatCosty/MatCosty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
